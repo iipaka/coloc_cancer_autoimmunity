@@ -9,7 +9,7 @@ To replicate this analysis, the local workspace should match the following direc
 ```text
 ├── Data_raw/            # Place downloaded GWAS summary statistics (.gz), the Chen et al. (2025) supplementary table, and the gwas_summarystats.csv mapping file here.
 ├── Data_processed/      # Output directory for intermediate formatted files and .rds objects required by the coloc package.
-├── Output/              # Output directory for final colocalisation results, logs, and generated plots.
+├── Output/              # Output directory for final colocalisation results and generated plots.
 ```
 
 ### Central Mapping File
